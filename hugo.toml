@@ -1,4 +1,4 @@
 baseURL = 'http://example.org/'
 languageCode = 'zh-cn'
 title = "MaG1ciaN's Blog"
-theme = 'ananke'
+theme = 'PaperMod'
