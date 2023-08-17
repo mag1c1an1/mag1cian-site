@@ -1,0 +1,7 @@
+{
+  // 注意: 如果使用 `astro/tsconfigs/strictest` 或 `astro/tsconfigs/strictest`，则不需要更改
+  "extends": "astro/tsconfigs/base",
+  "compilerOptions": {
+    "strictNullChecks": true
+  }
+}
